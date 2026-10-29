@@ -1,0 +1,60 @@
+{
+  "metrics": {
+    "fidelity": {
+      "name": "Local Fidelity (R\u00b2)",
+      "value": 0.47981519393876565,
+      "ci_lower": 0.45687369655579424,
+      "ci_upper": 0.5008459825076738,
+      "p_value": null,
+      "interpretation": "Poor"
+    },
+    "sparsity": {
+      "features_80pct": {
+        "name": "Features for 80% Importance",
+        "value": 35.808,
+        "ci_lower": 34.84785,
+        "ci_upper": 36.69415,
+        "p_value": null,
+        "interpretation": "Average 35.8 features explain 80% of prediction"
+      },
+      "gini": {
+        "name": "Gini Coefficient",
+        "value": 0.3335652068371048,
+        "ci_lower": 0.3235307277000185,
+        "ci_upper": 0.34386951973824237,
+        "p_value": null,
+        "interpretation": "Higher = more concentrated importance"
+      }
+    },
+    "stability": {
+      "mean_jaccard": 0.685937689761219,
+      "ci_lower": 0.6483793914418914,
+      "ci_upper": 0.7233589902744315
+    },
+    "completeness": {
+      "k5_mean": 0.38429895345566173,
+      "ci_lower": 0.36922012094930307,
+      "ci_upper": 0.4001531331460459
+    },
+    "descriptive_accuracy": {
+      "deletion_auc": 1.3037669989431975,
+      "ci_lower": 1.2186341506466076,
+      "ci_upper": 1.3841454593003497
+    },
+    "efficiency": {
+      "mean_time": 0.8815675654411316
+    }
+  },
+  "computational_info": {
+    "total_time_minutes": 7.346396378676096,
+    "samples_analyzed": 500,
+    "perturbations_per_sample": 5000
+  },
+  "clinical_insights": {
+    "trust_distribution": {
+      "mean_trust": 0.40950998512811265,
+      "high_trust_percentage": 0.0
+    }
+  },
+  "timestamp": "2026-02-09 15:07:41"
+}

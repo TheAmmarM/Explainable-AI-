@@ -1,0 +1,37 @@
+metric_category,metric_name,value
+fidelity,r2_mean,0.6417104921687514
+fidelity,r2_std,0.24173157133686074
+fidelity,r2_median,0.7454428176972829
+fidelity,r2_min,0.04477192668572261
+fidelity,r2_max,0.8634125336048772
+sparsity,features_80_mean,7.425
+sparsity,features_80_std,0.7378177281686853
+sparsity,gini_mean,0.1386695489919448
+sparsity,interpretation,Lower = more concise explanations
+coverage,overall,0.9
+coverage,bfrb_class,0.8
+coverage,non_bfrb_class,1.0
+coverage,valid_count,36
+coverage,total_count,40
+efficiency,mean_time,1.1203616499900817
+efficiency,median_time,1.203682780265808
+efficiency,p95_time,1.450758147239685
+efficiency,total_time,44.81446599960327
+efficiency,samples_per_second,0.8925689307634305
+stability,mean_jaccard,0.5079398379398379
+stability,std_jaccard,0.06453473511704226
+stability,cv_jaccard,0.12705192681635255
+stability,interpretation,Higher = more consistent explanations
+descriptive_accuracy,mean_relative_drop,-0.06221707742158088
+descriptive_accuracy,mean_absolute_drop,-0.040725201771853015
+descriptive_accuracy,n_samples_tested,9
+descriptive_accuracy,interpretation,Higher drop = more descriptive features
+robustness,mean_jaccard,0.6180053280053279
+robustness,mean_spearman,0.8771428571428572
+robustness,n_samples_tested,5
+robustness,interpretation,Higher = more robust to perturbations
+precision,precision_at_k,0.10500000000000002
+precision,interpretation,Precision@5 against permutation importance
+clinician_trust,score,0.6790228177247858
+clinician_trust,category,Moderate Trust
+clinician_trust,recommendation,Suitable with clinician oversight

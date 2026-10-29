@@ -1,0 +1,22 @@
+Metric Category,Value
+BASELINE - Accuracy,0.1584
+BASELINE - F1-Score (Weighted),0.1584
+BASELINE - F1-Score (Macro),0.1608
+EFFICIENCY - Mean Time (s),0.2143
+EFFICIENCY - Total Time (min),3.65
+FIDELITY - Mean,0.6779
+FIDELITY - Std,0.1480
+STABILITY - Mean,0.9926
+STABILITY - Std,0.0007
+SPARSITY - Mean Features (80%),7.58
+SPARSITY - Ratio,0.0758
+DESCRIPTIVE - Accuracy Drop,0.0117
+DESCRIPTIVE - Relative Drop %,7.41%
+SEMANTIC - Coverage Ratio,1.6000
+SEMANTIC - Normalized Entropy,0.7562
+SEMANTIC - Richness Score,1.1781
+CLINICAL - Consistency,0.1584
+CLINICAL - Stability,0.4608
+CLINICAL - Relevance,1.0000
+CLINICAL - Error Interpretability,0.7174
+CLINICAL - Trust Score,0.5282

@@ -1,0 +1,9 @@
+Metric,Value,Interpretation
+Efficiency (Mean Time),0.3582s,Time to generate one explanation
+Fidelity (Mean),0.7180,How well surrogate matches black-box
+Stability (Mean),0.9955,Consistency across repeated runs
+Sparsity (Avg Features),7.50 / 100,Features needed for 80% importance
+Descriptive Accuracy Drop,0.1698 (19.17%),Impact of removing top features
+Baseline Accuracy,0.8860,Original model performance
+Baseline F1-Score,0.9134,Original model F1-score
+Baseline AUC-ROC,0.9591,Original model AUC-ROC

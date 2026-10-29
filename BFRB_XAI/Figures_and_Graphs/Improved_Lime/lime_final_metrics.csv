@@ -1,0 +1,6 @@
+Metric,Value,Interpretation
+Mean Time (s),0.22970597616811972,Speed
+Fidelity (R2),0.2892062850674125,Faithfulness
+Stability (Subset),0.9697157830810468,Robustness
+Sparsity (90%),8.17841814837523,Cognitive Load
+Acc Drop (Top-5),0.01961986511342728,Feature Power

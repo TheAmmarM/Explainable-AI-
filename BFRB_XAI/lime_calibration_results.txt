@@ -1,0 +1,18 @@
+LIME KERNEL WIDTH CALIBRATION RESULTS
+==================================================
+
+Best Kernel Width: 2.0
+Best Mean R²: 0.3218
+
+All Results:
+------------------------------
+Width   0.50: R² = 0.0000
+Width   0.75: R² = 0.0000
+Width   1.00: R² = 0.0000
+Width   1.50: R² = 0.0019
+Width   2.00: R² = 0.3218
+Width   3.00: R² = 0.2935
+Width   5.00: R² = 0.2522
+Width  10.00: R² = 0.2478
+Width  20.00: R² = 0.2470
+Width  50.00: R² = 0.2468

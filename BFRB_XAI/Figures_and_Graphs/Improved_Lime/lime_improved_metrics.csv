@@ -1,0 +1,10 @@
+Metric,Value,Interpretation
+Computational Time (s/sample),0.6857,Slower than SHAP (expected)
+Total Time (minutes),18.64,Total computation cost
+Fidelity (R² - Mean),0.0000,Approximation quality (CRITICAL)
+Fidelity (R² - Median),0.0000,Robust central tendency
+Low Fidelity Cases (%),100.0,Unreliable explanations
+Stability (Mean),1.0000,Consistency across runs
+Sparsity (90% features),9.00,Cognitive load
+Descriptive Accuracy Drop,-0.0049,Feature importance validation
+Number of Samples Explained,1631,Same as SHAP for fair comparison
